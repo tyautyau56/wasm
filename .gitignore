@@ -43,3 +43,6 @@ Temporary Items
 # vscode
 .vscode
 
+# Cargo
+Cargo.lock
+
